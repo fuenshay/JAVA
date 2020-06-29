@@ -1,8 +1,9 @@
-"""
+
+
 Author: Shayna Fu
+
 Date: June 28, 2020
 
-"""
 
 1.1
 What are hardware and software?
